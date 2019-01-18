@@ -1,1 +1,0 @@
-alias Beam, as: B
